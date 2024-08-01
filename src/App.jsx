@@ -4,6 +4,7 @@ import Hero from './assets/components/Hero'
 import  Analytics from './assets/components/Analytics'
 import Newsletter from './assets/components/Newsletter'
 import Cards from './assets/components/Cards'
+import Footer from './assets/components/Footer'
 function App() {
   return (
 
@@ -13,6 +14,7 @@ function App() {
     <Analytics/>
     <Newsletter/>
     <Cards/>
+    <Footer/>
 
     </>
   )
