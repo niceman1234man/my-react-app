@@ -22,7 +22,7 @@ function Cards() {
 </div>
 
 <div className=' w-full shadow-xl flex flex-col my-4 md:my-0 bg-gray-100 rounded-lg hover:scale-105 duration-300'>
-    <img className='w-20 mx-auto mt-[-3rem] bg-transparent bg-white' src={double} alt="Double" />
+    <img className='w-20 mx-auto mt-[-3rem] bg-transparent ' src={double} alt="Double" />
     <h2 className='text-2xl font-bold py-8 text-center'>Single User</h2>
     <p className='text-center font-bold tex-2xl'>$149</p>
     <div className='text-center font-medium'>
