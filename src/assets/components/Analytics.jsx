@@ -12,7 +12,7 @@ function Analytics() {
             <p className='font-serif'>Lorum ipsum dolor sit,amet consecutetor adiciplining elit.
                 Dicta beatea omins obcaeate aliquam et eligendi official atque 
                 quam corrupti consequetor commodi mollitia non,assumenda aliquid 
-                hic at possimuss nihil ?</p>
+                hic at possimuss nihil?</p>
                 <button className='bg-[#000000] w-[200px] rounded-md font-medium my-6 py-2 mx-auto text-[#00df9a] md:mx-0'>Get Started</button>
 
         </div>
