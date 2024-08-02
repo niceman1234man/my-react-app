@@ -14,7 +14,6 @@ function Hero() {
             backSpeed={130}
             loop
           /></p>
-          
         </div>
         <p className='md:text-2xl text-xl font-bold text-gray-500'>
           Monitor your data analysis to increase revenue BTB, BTC & SASS platforms
