@@ -11,7 +11,6 @@ FaTwitterSquare
 function Footer() {
   return (
     <div className='mx-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
- 
  <div>
  <h1 className='w-full text-3xl font-bold text-[#00df9a]'>REACT.</h1>
  <p className='py-4'>Lorum ipsum dolor sit,amet consecutetor adiciplining elit.
@@ -24,7 +23,6 @@ function Footer() {
 <FaGithub size={30}/>
 <FaInstagram size={30}/>
 <FaTwitterSquare size={30}/>
-
  </div>
  </div>
  <div className='lg:col-span-2 flex justify-between mt-8'>
@@ -35,7 +33,6 @@ function Footer() {
             <li className='py-2 text-sm'>Marketing</li>
             <li className='py-2 text-sm'>Commerce</li>
             <li className='py-2 text-sm'>Insights</li>
-          
         </ul>
     </div>
     <div>
@@ -56,8 +53,6 @@ function Footer() {
             <li className='py-2 text-sm'>Jobs</li>
             <li className='py-2 text-sm'>press</li>
             <li className='py-2 text-sm'> Careers</li>
-
-          
         </ul>
     </div>
     <div>
@@ -66,9 +61,6 @@ function Footer() {
             <li className='py-2 text-sm'>Claim</li>
             <li className='py-2 text-sm'>Policy</li>
             <li className='py-2 text-sm'>Terms</li>
-            
-
-          
         </ul>
     </div>
 
