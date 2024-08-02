@@ -14,7 +14,6 @@ function Newsletter() {
                     <button className='bg-[#00df9a] w-[200px] rounded-full font-medium my-6 py-2 ml-4 mx-auto text-black'>Notify Me</button>
               </div>
                     <p>we care about the protectio of your data.Read Our <span className='text-[#00df9a]'>Privacy policy</span></p>
-
             </div>
         </div>
     </div>
