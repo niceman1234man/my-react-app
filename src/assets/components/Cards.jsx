@@ -31,9 +31,7 @@ function Cards() {
         <p className='py-2 border-b mx-8 mt-8'>Send up to 2GB</p>
     </div>
     <button className='text-[#00df9a] w-[200px] rounded-md font-medium my-6 py-2 mx-auto bg-black'>Start Trial</button>
-     
 </div>
-
 <div className=' w-full shadow-xl flex flex-col my-4 rounded-lg hover:scale-105 duration-300'>
     <img className='w-20 mx-auto mt-[-3rem] bg-white' src={triple} alt="Triple" />
     <h2 className='text-2xl font-bold py-8 text-center'>Single User</h2>
